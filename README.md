@@ -1,3 +1,3 @@
 # Gradient-Puzzle-Application
 
-![Alt text](screenshots/1.tiff?raw=true "Title")
+![Alt text](screenshots/1.png?raw=true "Title")
